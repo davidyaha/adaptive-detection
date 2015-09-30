@@ -3,7 +3,7 @@
  */
 Package.describe({
   summary: "This module allows you to detect device.",
-  version: "0.4.1",
+  version: "0.4.1_1",
   git: "https://github.com/netanelgilad/meteor-textAngular.git",
   name: "davidyaha:adaptive-detection"
 });
