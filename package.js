@@ -10,7 +10,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.0.1');
-  api.use('urigo:angular@0.7.2', 'client');
+  api.use('angular:angular@1.2.0', 'client');
 
   api.addFiles('angular-adaptive-detection.min.js', 'client');
 });
